@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alindas</h1>
-<h3 align="center">Im currently a CT student studying in the UK</h3>
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on **An game in unity**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alindasuk&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alindasuk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **Backend web development and javascript**
+## Learning 📚
+- JavaScript
+- C#
+- Python
 
-- 👨‍💻 All of my projects are available at [Not up yet sorry :(](Not up yet sorry :()
-
-- 📫 How to reach me **alindasdoesstuff@outlook.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alindasuk&show_icons=true&locale=en" alt="alindasuk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alindasuk&" alt="alindasuk" /></p>
